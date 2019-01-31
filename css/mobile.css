@@ -1,0 +1,20 @@
+@media screen and (max-width:768px)  {
+    
+    header, section { padding: 0rem 2rem;}
+    
+    header { margin-top: 2rem; }
+    
+    .first-web { margin-top: 3rem;}
+    
+    .website-container { grid-template-columns: 12fr; }
+    
+    .website-content-03 { padding: 3em; }
+
+    header .filter { flex-flow: wrap; }
+    
+    header ul li { margin-bottom: 0.5rem; }
+    
+    h1 { font-size: 3rem;}
+    
+    .cate { display: none;}
+}
